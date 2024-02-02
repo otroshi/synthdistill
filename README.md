@@ -1,17 +1,14 @@
 # SynthDistill: Face Recognition with Knowledge Distillation from Synthetic Data
 
-[![arXiv](https://img.shields.io/badge/cs.CV-arXiv%3A2308.14852-009d81.svg)](https://arxiv.org/abs/2308.14852)
-
-
 	
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/synthdistill-face-recognition-with-knowledge/synthetic-face-recognition-on-agedb-30)](https://paperswithcode.com/sota/synthetic-face-recognition-on-agedb-30?p=synthdistill-face-recognition-with-knowledge)
-	
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/synthdistill-face-recognition-with-knowledge/synthetic-face-recognition-on-cfp-fp)](https://paperswithcode.com/sota/synthetic-face-recognition-on-cfp-fp?p=synthdistill-face-recognition-with-knowledge)
-	
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/synthdistill-face-recognition-with-knowledge/synthetic-face-recognition-on-cplfw)](https://paperswithcode.com/sota/synthetic-face-recognition-on-cplfw?p=synthdistill-face-recognition-with-knowledge)
 	
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/synthdistill-face-recognition-with-knowledge/synthetic-face-recognition-on-lfw)](https://paperswithcode.com/sota/synthetic-face-recognition-on-lfw?p=synthdistill-face-recognition-with-knowledge)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/synthdistill-face-recognition-with-knowledge/synthetic-face-recognition-on-cplfw)](https://paperswithcode.com/sota/synthetic-face-recognition-on-cplfw?p=synthdistill-face-recognition-with-knowledge)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/synthdistill-face-recognition-with-knowledge/synthetic-face-recognition-on-cfp-fp)](https://paperswithcode.com/sota/synthetic-face-recognition-on-cfp-fp?p=synthdistill-face-recognition-with-knowledge)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/synthdistill-face-recognition-with-knowledge/synthetic-face-recognition-on-agedb-30)](https://paperswithcode.com/sota/synthetic-face-recognition-on-agedb-30?p=synthdistill-face-recognition-with-knowledge)
 
+[![arXiv](https://img.shields.io/badge/cs.CV-arXiv%3A2308.14852-009d81.svg)](https://arxiv.org/abs/2308.14852)
+	
 This repository contains the source code to train **SynthDistill: Face Recognition with Knowledge Distillation from Synthetic Data** (IJCB 2023). You can access arxiv version [here](https://arxiv.org/pdf/2308.14852.pdf).
 
 ### Installation
