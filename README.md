@@ -11,8 +11,8 @@
 	
 This repository contains the source code to train **SynthDistill: Face Recognition with Knowledge Distillation from Synthetic Data** (IJCB 2023). You can access arxiv version [here](https://arxiv.org/pdf/2308.14852.pdf).
 
-### Installation
-The installation instructions are based on [**conda**](https://conda.io/) and **Linux systems**. Therefore, please [install conda](https://conda.io/docs/install/quick.html#linux-miniconda-install) before continuing.
+## Installation
+The installation instructions are based on [conda](https://conda.io/) and Linux systems. Therefore, please [install conda](https://conda.io/docs/install/quick.html#linux-miniconda-install) before continuing.
 For installation, please download the source code of this paper and unpack it. Then, you can create a conda
 environment with the following command:
 
@@ -33,7 +33,7 @@ $ git clone https://github.com/NVlabs/stylegan3
 
 **NOTE:** For downloading pretrained StyleGAN, please visit the [official page](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/research/models/stylegan2/files) and download `stylegan2-ffhq-256x256.pkl` model.
 
-### Training models
+## Training models
 To train models, you can use the following command:
 ```sh
 $ python train.py --model TinyFaR_A --resampling_coef 1.0
