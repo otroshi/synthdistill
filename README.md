@@ -4,6 +4,7 @@
 	
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/synthdistill-face-recognition-with-knowledge/synthetic-face-recognition-on-lfw)](https://paperswithcode.com/sota/synthetic-face-recognition-on-lfw?p=synthdistill-face-recognition-with-knowledge)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/synthdistill-face-recognition-with-knowledge/synthetic-face-recognition-on-cplfw)](https://paperswithcode.com/sota/synthetic-face-recognition-on-cplfw?p=synthdistill-face-recognition-with-knowledge)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/synthdistill-face-recognition-with-knowledge/synthetic-face-recognition-on-calfw)](https://paperswithcode.com/sota/synthetic-face-recognition-on-calfw?p=synthdistill-face-recognition-with-knowledge)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/synthdistill-face-recognition-with-knowledge/synthetic-face-recognition-on-cfp-fp)](https://paperswithcode.com/sota/synthetic-face-recognition-on-cfp-fp?p=synthdistill-face-recognition-with-knowledge)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/synthdistill-face-recognition-with-knowledge/synthetic-face-recognition-on-agedb-30)](https://paperswithcode.com/sota/synthetic-face-recognition-on-agedb-30?p=synthdistill-face-recognition-with-knowledge)
 
@@ -38,6 +39,13 @@ To train models, you can use the following command:
 ```sh
 $ python train.py --model TinyFaR_A --resampling_coef 1.0
 ```
+
+
+## Pre-trained models (SynthDistill)
+Checkpoints of trained models (TinyFaR-A, TinyFaR-B, and TinyFaR-C) using SynthDistill are available in the [official repository](https://gitlab.idiap.ch/bob/bob.paper.ijcb2023_synthdistill):
+- [TinyFaR-A](https://gitlab.idiap.ch/bob/bob.paper.ijcb2023_synthdistill/-/blob/master/checkpoints/SynthDistill-TinyFaR-A.pt)
+- [TinyFaR-B](https://gitlab.idiap.ch/bob/bob.paper.ijcb2023_synthdistill/-/blob/master/checkpoints/SynthDistill-TinyFaR-B.pt)
+- [TinyFaR-C](https://gitlab.idiap.ch/bob/bob.paper.ijcb2023_synthdistill/-/blob/master/checkpoints/SynthDistill-TinyFaR-C.pt)
 
 
 ## Reference
